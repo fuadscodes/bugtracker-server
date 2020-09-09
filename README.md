@@ -14,8 +14,6 @@ U .env fajl unosimo slijedeće podatke:
 
 Zatim ukucati:
 
-### `npm build` 
-
 ### `npm start`
 
 Server se pokreće na lokaciji [http://localhost:5000](http://localhost:5000).
