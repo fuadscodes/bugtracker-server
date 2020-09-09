@@ -1,0 +1,30 @@
+{
+  "name": "projektv1",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.5",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "chart.js": "^2.9.3",
+    "cloudinary": "^1.23.0",
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "dotenv": "^8.2.0",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "express-session": "^1.17.0",
+    "express-validator": "^6.6.0",
+    "highcharts": "^8.0.0",
+    "http-errors": "~1.6.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.3.5",
+    "morgan": "~1.9.1",
+    "pg": "^7.15.1",
+    "request": "^2.88.0"
+  }
+}

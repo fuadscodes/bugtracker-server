@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    height: 85%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f7f7f7;
+    font: 1.5em "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.red {
+    color: #D82737;
+}
+
+.orange {
+    color: #F16B2E;
+}
+
+.yellow {
+    color: #F4A72B;
+}
+
+p {
+    font-weight: bold;
+}
